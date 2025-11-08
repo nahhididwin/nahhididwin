@@ -1,3 +1,3 @@
-## Xin Chào 👋
+## Hello 👋
 
-Hãy xem đầy đủ profile của tôi tại đây : https://github.com/nahhididwin/inputnothing
+See my full profile here : https://github.com/nahhididwin/inputnothing
